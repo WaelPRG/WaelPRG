@@ -4,7 +4,7 @@ Welcome to my profile.
 
 ## About me
 
-I'm a developer in Roblox. I start learning scripting almost 6 years ago, but it wasn't continuous, I’ve been learning Scripting on and off, "I’d say I have about three years of experience.
+I'm a developer in Roblox. I start learning scripting almost 6 years ago, but it wasn't continuous, I’ve been learning Scripting on and off, I’d say I have about three years of experience.
 
 I use **VS code**, **Rojo** and **Wally**.
 
