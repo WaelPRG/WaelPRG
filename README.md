@@ -13,7 +13,7 @@ I'm also familiar with **OOP** and I use it.
 I also know **SSA** (single script architecture) and I prefer it.
 
 
-## Frameworks/libraries I know::
+## Frameworks/libraries I know:
 
 - [knit](https://github.com/Sleitnick/Knit)
 - [ProfileService](https://github.com/MadStudioRoblox/ProfileService)/[ProfileStore](https://github.com/MadStudioRoblox/ProfileStore)
