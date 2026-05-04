@@ -8,9 +8,9 @@ I'm a developer in Roblox. I start learning scripting almost 6 years ago, but it
 
 I use **VS code**, **Rojo** and **Wally**.
 
-I'm familiar with **OOP** and I use it.
+I'm also familiar with **OOP** and I use it.
 
-I know **SSA** (single script architecture) and I prefer it.
+I also know **SSA** (single script architecture) and I prefer it.
 
 
 ## Frameworks/libraries I know::
